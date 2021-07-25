@@ -13,22 +13,38 @@
 
       html {
         --cream: #eee;
+        --black: #000;
+        --text-color: var(--black);
+        --bg-color: var(--cream);
+        --nav-bg-color: var(--cream);
         --dark: #121212;
-        --link-color: #bb86fc;
-        --nav-link-color: #bb86fc;
+        --link-color: darkblue;
+        --nav-link-color: darkblue;
       }
+      
+      @media (prefers-color-scheme: dark) {
+        html {
+          --text-color: var(--cream);
+          --bg-color: var(--dark);
+          --nav-bg-color: var(--dark);
+          --dark: #121212;
+          --link-color: #bb86fc;
+          --nav-link-color: #bb86fc;
+        }
+      }
+
       body {
         margin: 0;
       }
 
       html, body {
-        background-color: var(--dark);
-        color: var(--cream);
+        background-color: var(--bg-color);
+        color: var(--text-color);
       }
       
       nav {
-				background-color: var(--dark);
-				color: var(--cream);
+				background-color: var(--nav-bg-color);
+				color: var(--text-color);
 				padding: 1rem;
 				position: sticky;
 				top: 0;
