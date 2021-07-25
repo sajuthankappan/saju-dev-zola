@@ -1,17 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>saju.dev</title>
+    <script type="module" src="/src/app-element.ts"></script>
+    <style>
+      :root {
+        font-family: 'Courier New', Courier, monospace;
+      }
 
-<head>
-  <meta charset="utf-8">
-  <title>saju.dev</title>
-</head>
+      html {
+        --cream: #eee;
+        --dark: #121212;
+        --link-color: #c1c4ec;
+        --nav-link-color: #c1c4ec;
+      }
+      body {
+        margin: 0;
+      }
 
-<body>
-  <section class="section">
-    <div class="container">
-      {% block content %} {% endblock %}
-    </div>
-  </section>
-</body>
+      html, body {
+        background-color: var(--dark);
+        color: var(--cream);
+      }
+      
+      nav {
+				background-color: var(--dark);
+				color: var(--cream);
+				padding: 1rem;
+				position: sticky;
+				top: 0;
+				z-index: 1;
+			}
 
+			a {
+				padding: 0.5rem;
+        text-decoration: none;
+        color: var(--link-color);
+			}
+
+      nav a {
+        color: var(--nav-link-color)
+      }
+
+      ul > li {
+        list-style-type: none;
+      }
+
+      .container {
+				padding: 1rem;
+			}
+    </style>
+  </head>
+  <body>
+    <nav role="navigation" aria-label="main navigation">
+      <a href="/">Home</a>
+      <a href="/articles/">Articles</a>
+    </nav>
+    <section class="section">
+      <div class="container">
+        {% block content %} {% endblock %}
+      </div>
+    </section>
+  </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
