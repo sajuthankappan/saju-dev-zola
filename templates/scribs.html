@@ -1,18 +1,18 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
+<h2 class="title">
   {{ section.title }}
-</h1>
+</h2>
 
 {{ section.content | safe }}
 
 <ul>
   {% for page in section.pages %}
   <li>
-    <h2>
+    <h3>
       {{ page.title }}
-    </h2>
+    </h3>
     <p>
       {{ page.content | safe }}
     </p>

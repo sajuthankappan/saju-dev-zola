@@ -6,51 +6,53 @@ template = "uses.html"
 
 What services / systems do I use?
 
-## Programming Languages
+### Programming Languages
 - [Rust](https://www.rust-lang.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-## Web Hosting
+### Static Web Hosting
 
 - [Firebase hosting](https://firebase.google.com/products/hosting)
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
 
-## Web / Container Hosting
+### Web / Container Hosting
 - [Google Cloud Run](https://cloud.google.com/run)
+- [Cloudflare Workers](https://workers.cloudflare.com/)
 
-## Static Site Generators
+### Static Site Generators
 - [Zola](https://www.getzola.org/)
 - [Eleventy](https://www.11ty.dev/)
 - [Sapper](https://sapper.svelte.dev/)
 - [Next.js](https://nextjs.org/)
 
-## Javascript UI
+### Javascript UI
 - [Svelte](https://svelte.dev/)
 - [Lit](https://lit.dev/)
 - [React](https://reactjs.org/)
 
-## Web Application / API Framework
+### Web Application / API Framework
 - [Warp](https://github.com/seanmonstar/warp)
 
-## Authentication
+### Authentication
 - [Firebase Authentication](https://firebase.google.com/products/auth)
 
-## Message Queue Broker
+### Message Queue Broker
 - [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service
 
-## API Gateway / Management
+### API Gateway / Management
 - [Azure APIM](https://azure.microsoft.com/en-in/services/api-management/)
-## Being Considered
+### Being Considered
 - [Astro Build](https://astro.build/) for static site generation
 - [Axum](https://github.com/tokio-rs/axum) for web application framework
 
-## Other Notable Options
+### Other Notable Options
 - [Vue](https://vuejs.org/)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 
-## More free resources
+### More Free Resources
 [https://free-for.dev/](https://free-for.dev/)
