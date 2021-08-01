@@ -24,7 +24,7 @@ What services / systems do I use?
 - [Cloudflare Workers](https://workers.cloudflare.com/)
 
 ### Static Site Generators
-- [Zola](https://www.getzola.org/)
+- [Zola](https://www.getzola.org/) *
 - [Eleventy](https://www.11ty.dev/)
 - [Sapper](https://sapper.svelte.dev/)
 - [Next.js](https://nextjs.org/)
@@ -34,8 +34,19 @@ What services / systems do I use?
 - [Lit](https://lit.dev/)
 - [React](https://reactjs.org/)
 
+### Headless CMS
+- [Contentful](https://www.contentful.com/)
+- [Storyblok](https://www.storyblok.com/)
+
 ### Web Application / API Framework
 - [Warp](https://github.com/seanmonstar/warp)
+
+### Database
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- [ElephantSQL](https://www.elephantsql.com/)
+
+### API Gateway / Management
+- [Azure APIM](https://azure.microsoft.com/en-in/services/api-management/)
 
 ### Authentication
 - [Firebase Authentication](https://firebase.google.com/products/auth)
@@ -43,11 +54,11 @@ What services / systems do I use?
 ### Message Queue Broker
 - [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service
 
-### API Gateway / Management
-- [Azure APIM](https://azure.microsoft.com/en-in/services/api-management/)
 ### Being Considered
 - [Astro Build](https://astro.build/) for static site generation
 - [Axum](https://github.com/tokio-rs/axum) for web application framework
+- [bit.io](bit.io) Postgres database
+- [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) NoSQL Database
 
 ### Other Notable Options
 - [Vue](https://vuejs.org/)
@@ -56,3 +67,6 @@ What services / systems do I use?
 
 ### More Free Resources
 [https://free-for.dev/](https://free-for.dev/)
+
+
+\* This site created using [Zola](https://www.getzola.org/)
