@@ -43,7 +43,7 @@
         color: var(--text-color);
       }
       
-      .nav {
+      .nav-container {
 				background-color: var(--nav-bg-color);
 				color: var(--text-color);
 				padding: 0.25rem;
@@ -55,8 +55,17 @@
       nav {
         max-width: 1024px;
         margin: auto;
-        display: flex;
-        align-items: center;
+      }
+
+      nav > div {
+        text-align: center;
+      }
+
+      @media (min-width: 600px) {
+        nav {
+          display: flex;
+          align-items: center;
+        }
       }
 
       h1 {
@@ -91,7 +100,7 @@
       }
 
       .home-first-page {
-        min-height: calc(100vh - 100px);
+        min-height: calc(100vh - 96px);
         display: flex;
         place-items: center;
       }
@@ -107,18 +116,18 @@
         min-height:200px
       }
 
+      @media (min-width: 600px) {
+        .youtube iframe {
+          min-height:400px
+        }
+      }
+
       .blog-list-item {
         padding: 1rem 0;
       }
 
       .blog-list-date {
         font-size: small;
-      }
-
-      @media (min-width: 600px) {
-        .youtube iframe {
-          min-height:400px
-        }
       }
 
       pre {
@@ -146,12 +155,16 @@
     </style>
   </head>
   <body>
-    <div class="nav">
+    <div class="nav-container">
       <nav role="navigation" aria-label="main navigation">
-        <a href="/"><h1>saju.dev</h1></a>
-        <a href="/blog/">blog</a>
-        <a href="/scribs/">scribs</a>
-        <a href="/uses/">uses</a>
+        <div>
+          <h1><a href="/">saju.dev</a></h1>
+        </div>
+        <div>
+          <a href="/blog/">blog</a>
+          <a href="/scribs/">scribs</a>
+          <a href="/uses/">uses</a>  
+        </div>
       </nav>
     </div>
     <section class="section">
