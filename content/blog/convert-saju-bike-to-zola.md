@@ -1,6 +1,6 @@
 +++
 title = "Convert saju.bike from eleventy to zola"
-date = 2021-08-01
+date = 2021-08-03
 [taxonomies]
 tags =["rust","first"]
 +++
