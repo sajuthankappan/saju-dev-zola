@@ -4,8 +4,9 @@ description = "Programmer, Cyclist.."
 template = "index.html"
 +++
 
-Lived in Nagercoil, Kanyakumari Dist, Tamilnadu
+Lived in Nagercoil, Tamilnadu
 
-Staying at Chennai, India
+Staying at Chennai
 
-Working as a Technical Architect for my living..
+A Technical Architect for my living
+

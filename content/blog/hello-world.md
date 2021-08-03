@@ -1,5 +1,5 @@
 +++
-title = "My first post"
+title = "My First Post"
 description = "Hello world"
 date = 2021-08-01
 [taxonomies]

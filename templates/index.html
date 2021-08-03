@@ -2,12 +2,37 @@
 
 {% block content %}
 
-<div class="home-hero">
-  <h2 class="title">
-    {{ section.title }}
-  </h2>
-  <p>{{ section.description }}</p>
+<div class="home-first-page">
+  <div>
+    <div class="home-hero">
+      <h2 class="title">
+        {{ section.title }}
+      </h2>
+      <p>{{ section.description }}</p>
+    </div>
+    
+    <div class="home-main">
+      {{ section.content | safe }}
+    </div>
+  </div>
 </div>
-{{ section.content | safe }}
+
+<h2>
+  Recent Posts
+</h2>
+
+<div class="blog-list-item">
+  <a href="/blog/convert-saju-bike-to-zola">
+    <h3>Convert Saju.bike to Zola</h3>
+  </a>
+  <p>Converting saju.bike website from eleventy to zola</p>
+</div>
+
+<div class="blog-list-item">
+  <a href="/blog/hello-world">
+    <h3>My First Post</h3>
+  </a>
+  <p>Hello world</p>
+</div>
 
 {% endblock content %}

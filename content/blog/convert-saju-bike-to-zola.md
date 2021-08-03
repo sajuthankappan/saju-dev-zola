@@ -1,5 +1,5 @@
 +++
-title = "Convert saju.bike to zola"
+title = "Convert Saju.bike to zola"
 description = "Converting saju.bike website from eleventy to zola"
 date = 2021-08-03
 [taxonomies]
