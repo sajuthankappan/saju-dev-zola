@@ -7,10 +7,14 @@
 
 {{ section.content | safe }}
 
-<ul>
-  {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for page in section.pages %}
+  <div class="blog-list-item">
+    <div class="blog-list-date">{{ page.date | date(format="%d %b %Y")}}</div>
+    <a href="{{ page.permalink | safe }}">
+      <h3>{{ page.title }}</h3>
+    </a>
+    <p>{{ page.description }}</p>
+  </div>
+{% endfor %}
 
 {% endblock content %}

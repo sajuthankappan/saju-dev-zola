@@ -4,7 +4,7 @@ sort_by = "date"
 template = "uses.html"
 +++
 
-What services / systems do I use?
+What do I use?
 
 ### Programming Languages
 - [Rust](https://www.rust-lang.org/)

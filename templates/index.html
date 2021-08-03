@@ -2,7 +2,12 @@
 
 {% block content %}
 
-<h2 class="title">
-  Hello World!
-</h2>
+<div class="home-hero">
+  <h2 class="title">
+    {{ section.title }}
+  </h2>
+  <p>{{ section.description }}</p>
+</div>
+{{ section.content | safe }}
+
 {% endblock content %}
