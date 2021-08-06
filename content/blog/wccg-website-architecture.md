@@ -15,3 +15,28 @@ Overall View of Main Site, Rider Site & Admin / Volunteer Sites
 ### Strava Integration View
 
 ![WCCG Strava Integration View](/wccg-strava-integration.png "Title")
+
+### What we use?
+
+- Firebase hosting (static website hosting)
+- Azure APIM (Api Gateway)
+- Google Cloud Run (Microservices hosting)
+- Contentful (Headless CMS)
+- Cloudinary (Image CDN)
+- Atlas Mongodb (Databsae)
+- CloudAMQP (RabbitMQ as a Service)
+
+### Tech Stack
+
+#### Programming Languages
+
+- Javascript & Typescript (Most of frontend)
+- Java (Backend Services)
+- Rust (Backend Services & Strava Worker)
+
+#### Frameworks / Libraries
+
+- React & Next.js (For main site)
+- Svelte (For Rider & Admin site)
+- Spring Boot (Java Microservices Framework)
+- Warp (Rust Microservices Library)
