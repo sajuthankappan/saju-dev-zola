@@ -1,6 +1,6 @@
 +++
-title = "Tailwind CSS v2.0"
-date = 2020-11-19
+title = ".NET 5.0"
+date = 2020-11-11
 
 [extra]
 url = "https://blog.tailwindcss.com/tailwindcss-v2"
