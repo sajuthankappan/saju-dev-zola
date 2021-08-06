@@ -6,6 +6,13 @@ date = 2021-08-03
 tags =["rust"]
 +++
 
+
+Having loved the experince of using zola for this site, thought of migrating saju.bike (which was created using eleventy) also to zola
+
+Website url: [https://saju.bike/](https://saju.bike/)
+
+### Steps
+
 1. Delete eleventy/npm related files at root
 ```bash
 rm package.json package-lock.json .eleventy.js 
@@ -92,4 +99,5 @@ youtube(id="9EpofVekJx8", class="youtube")
 zola serve
 ```
 
-13. All done!
+13. All done! 
+
