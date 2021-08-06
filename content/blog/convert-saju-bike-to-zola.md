@@ -3,7 +3,7 @@ title = "Convert Saju.bike to zola"
 description = "Converting saju.bike website from eleventy to zola"
 date = 2021-08-03
 [taxonomies]
-tags =["rust","first"]
+tags =["rust"]
 +++
 
 1. Delete eleventy/npm related files at root
