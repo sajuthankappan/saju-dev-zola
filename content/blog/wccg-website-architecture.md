@@ -19,6 +19,7 @@ Overall View of Main Site, Rider Site & Admin / Volunteer Sites
 ### What we use?
 
 - Firebase hosting (static website hosting)
+- Firebase Authentication (User Regisration & Authication)
 - Azure APIM (Api Gateway)
 - Google Cloud Run (Microservices hosting)
 - Contentful (Headless CMS)
@@ -40,3 +41,8 @@ Overall View of Main Site, Rider Site & Admin / Volunteer Sites
 - Svelte (For Rider & Admin site)
 - Spring Boot (Java Microservices Framework)
 - Warp (Rust Microservices Library)
+-
+
+#### Drivers
+- [Mongodb Rust Driver](https://github.com/mongodb/mongo-rust-driver)
+- [Rust AMQP Client Library](https://github.com/CleverCloud/lapin)
