@@ -8,8 +8,8 @@
 {{ section.content | safe }}
 
 {% for page in section.pages %}
-  <div class="blog-list-item">
-    <div class="blog-list-date">{{ page.date | date(format="%d %b %Y")}}</div>
+  <div class="list-item">
+    <div class="list-date">{{ page.date | date(format="%d %b %Y")}}</div>
     <a href="{{ page.permalink | safe }}">
       <h3>{{ page.title }}</h3>
     </a>

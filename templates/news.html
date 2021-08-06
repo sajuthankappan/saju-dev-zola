@@ -9,10 +9,17 @@
 
 <ul>
   {% for page in section.pages %}
-  <li>
-    {{ page.title }}
-    {{ page.extra.topic }}
-  </li>
+  <div class="list-item">
+    <div class="list-date">{{ page.date | date(format="%d %b %Y")}}</div>
+    <h3>
+      <a href="{{ page.extra.url }}">
+        {{ page.title }}
+      </a>
+    </h3>
+    <p>
+      {{ page.content | safe }}
+    </p>
+  </div>
   {% endfor %}
 </ul>
 
