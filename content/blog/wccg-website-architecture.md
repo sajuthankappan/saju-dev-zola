@@ -19,7 +19,7 @@ Overall View of Main Site, Rider Site & Admin / Volunteer Sites
 ### What we use?
 
 - Firebase hosting (static website hosting)
-- Firebase Authentication (User Regisration & Authication)
+- Firebase Authentication (User Regisration & Authentication)
 - Azure APIM (Api Gateway)
 - Google Cloud Run (Microservices hosting)
 - Contentful (Headless CMS)
