@@ -10,11 +10,11 @@ tags =["first"]
 
 Overall View of Main Site, Rider Site & Admin / Volunteer Sites
 
-![WCCG Overall View](/wccg-simplified.png "Title")
+![WCCG Overall View](/wccg-simplified.png "Overall View")
 
 ### Strava Integration View
 
-![WCCG Strava Integration View](/wccg-strava-integration.png "Title")
+![WCCG Strava Integration View](/wccg-strava-integration.png "Strava Integration View")
 
 ### What we use?
 
