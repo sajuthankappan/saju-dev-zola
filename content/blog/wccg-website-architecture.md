@@ -26,6 +26,8 @@ Overall View of Main Site, Rider Site & Admin / Volunteer Sites
 - Cloudinary (Image CDN)
 - Atlas Mongodb (Databsae)
 - CloudAMQP (RabbitMQ as a Service)
+- Razorpay (Payments Provider)
+- Drone CI (Continuous Integration - Build & Deployment)
 
 ### Tech Stack
 
