@@ -7,7 +7,7 @@ tags =["rust"]
 +++
 
 
-Saw this announcement https://tokio.rs/blog/2021-07-announcing-axum, via twitter feed. Got interested to try it out, and see how it will fit my needs.
+Saw this announcement [https://tokio.rs/blog/2021-07-announcing-axum](https://tokio.rs/blog/2021-07-announcing-axum), via twitter feed. Got interested to try it out, and see how it will fit my needs.
 
 Initial impressions, after reading [the documentation](https://docs.rs/axum/0.1.3/axum/), is quite impressive. So, here I am, taking a test ride..
 
