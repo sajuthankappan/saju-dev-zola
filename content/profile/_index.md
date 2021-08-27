@@ -14,11 +14,11 @@ Ph: (+91) 97899 19490
 
 ### Experience Summary
 
-- Technology Architect for Frontend & .Net technologies 
+- Technology Architect for Frontend & .Net technologies for more than 10 years
 
 - More than 20 years of experience in Information Technology. 
 
-- Experienced in architecting B2B, B2C complex projects with large volume of data, concurrent users and integration with internal and external systems, for more than 10 years.  
+- Design / Solution considering  all application requirements, including functional & non-functional (performance, security, quality, etc.) requirements.
 
 - Involved in Architecture, Design, Development, Database Administration, Analysis, Estimation, Migration, Maintenance, Unit Testing, Production Support and Technology Consulting 
 
