@@ -14,7 +14,7 @@ Ph: (+91) 97899 19490
 
 ### Experience Summary
 
-- Technology Architect for Frontend & .Net technologies for more than 10 years
+- Frontend & .Net Architect for more than 10 years
 
 - More than 20 years of experience in Information Technology. 
 
@@ -26,7 +26,7 @@ Ph: (+91) 97899 19490
 
 - Exposure to Agile/Scrum and traditional development practices. 
 
-- Web Technologies – Includes React, Node.js, ASP.NET, MVC, SOAP Web Services, Rest Services, AngularJs, Javascript, jQuery, HTML, ASP, AJAX, PHP, Python. Experienced in Single Page Applications and JAM stack applications with responsive design. 
+- Web Technologies – Includes React, Node.js, ASP.NET, MVC, REST/SOAP Web Services, AngularJs, Javascript, jQuery, HTML, ASP, AJAX, PHP, Python. Experienced in Single Page Applications and JAM stack applications with responsive design. 
 
 - Database - Worked in MongoDB, MS SQL Server, Oracle, Sybase SQL Server, Sybase SQL Anywhere, MySQL Databases 
 
