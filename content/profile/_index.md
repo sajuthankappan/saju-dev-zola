@@ -1,5 +1,5 @@
 +++
-title = "Profile"
+title = "My Profile"
 sort_by = "date"
 template = "profile.html"
 +++
