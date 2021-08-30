@@ -26,9 +26,9 @@ Ph: (+91) 97899 19490
 
 - Exposure to Agile/Scrum and traditional development practices. 
 
-- Web Technologies – Includes React, Node.js, ASP.NET, MVC, REST/SOAP Web Services, AngularJs, Javascript, jQuery, HTML, ASP, AJAX, PHP, Python. Experienced in Single Page Applications and JAM stack applications with responsive design. 
+- Web Technologies – Includes React, Next.js, Node.js, ASP.NET, MVC, REST/SOAP Web Services, AngularJs, Javascript. Experienced in Single Page Applications and JAM stack applications with responsive design. 
 
-- Database - Worked in MongoDB, MS SQL Server, Oracle, Sybase SQL Server, Sybase SQL Anywhere, MySQL Databases 
+- Database - Worked in MongoDB, MS SQL Server, PostgreSQL, Oracle, Sybase SQL Server, Sybase SQL Anywhere, MySQL Databases 
 
 - Worked in cloud computing with IaaS/PaaS/SaaS, using Microsoft Azure and Google Cloud. 
 
@@ -140,12 +140,11 @@ Ph: (+91) 97899 19490
 
 | Area                           | Skills                                                                                                      | 
 | :---                           |    :----                                                                                                    |  
-| OS                             | Windows NT/XP/2000, Unix, Linux                                                                             | 
-| Programming Languages / IDE    | Javascript/Typescript, C#, Rust, Go, Visual Basic 5.0, PowerBuilder , Visual Studio, Vi Editor, OmnisStudio |
+| Programming Languages / IDE    | Javascript/Typescript, C#, Rust, Go, Visual Basic 5.0, PowerBuilder , Visual Studio, Vi, OmnisStudio |
 | Web/UI Technologies            | React, Svelte, Lit, Web Components, Web Assembly, Tailwind, Bulma, Angular.js, PHP, jQuery`                 |
 | Databases                      | MongoDB, MS SQL Server, PostgreSQL, Sybase SQL Server, Sybase SQL Anywhere, Oracle                          |
 | VCS                            | Git, TFS, Subversion, PVCS, VSS, ClearCase                                                                  |
-
+| OS                             | Windows NT/XP/2000, Unix, Linux                                                                             | 
 
 ### Recent Project Experience 
 
