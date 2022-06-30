@@ -59,6 +59,7 @@ What do I use?
 - [Axum](https://github.com/tokio-rs/axum) for web application framework
 - [bit.io](bit.io) Postgres database
 - [Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/) NoSQL Database
+- [Render](https://render.com/)
 
 ### Other Notable Options
 - [Vue](https://vuejs.org/)
