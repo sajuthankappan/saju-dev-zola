@@ -69,5 +69,9 @@ What do I use?
 ### More Free Resources
 [https://free-for.dev/](https://free-for.dev/)
 
+### Additional resources
+- [unDraw](https://undraw.co/)
+- [Showlace](https://shoelace.style/)
+- [tsup](https://tsup.egoist.sh/)
 
 \* This site created using [Zola](https://www.getzola.org/)
