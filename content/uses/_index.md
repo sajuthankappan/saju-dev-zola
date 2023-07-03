@@ -73,5 +73,9 @@ What do I use?
 - [unDraw](https://undraw.co/)
 - [Showlace](https://shoelace.style/)
 - [tsup](https://tsup.egoist.sh/)
+- [cloudflare zero trust](https://www.cloudflare.com/en-gb/zero-trust/)
+- [pingvin share](https://pingvin-share.dev.eliasschneider.com/)
+- [peertube](https://peertube.tv/)
+
 
 \* This site created using [Zola](https://www.getzola.org/)
