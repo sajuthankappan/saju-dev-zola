@@ -76,6 +76,8 @@ What do I use?
 - [cloudflare zero trust](https://www.cloudflare.com/en-gb/zero-trust/)
 - [pingvin share](https://pingvin-share.dev.eliasschneider.com/)
 - [peertube](https://peertube.tv/)
+- [icones](https://icones.js.org/)
+- [remixicon](https://remixicon.com/)
 
 
 \* This site created using [Zola](https://www.getzola.org/)
